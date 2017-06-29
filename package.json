@@ -1,0 +1,30 @@
+{
+  "name": "allex_objectarrayconversionwebcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS web component for objectarrayconversion",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/objectarrayconversion.git"
+  },
+  "dependencies": {
+    "allex_objectarrayconversionlowlevellib": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "web",
+    "component",
+    "object",
+    "array",
+    "conversion"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/objectarrayconversion/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/objectarrayconversion#readme"
+}

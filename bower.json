@@ -1,0 +1,26 @@
+{
+  "name": "allex_objectarrayconversionwebcomponent",
+  "description": "AllexJS web component for objectarrayconversion",
+  "main": "src/index.js",
+  "authors": [
+    "Andrija Petrovic <andrija.hers@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ecosystem:AllexJS",
+    "web",
+    "component",
+    "object",
+    "array",
+    "conversion"
+  ],
+  "homepage": "https://github.com/allex-web-components/objectarrayconversion",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}
