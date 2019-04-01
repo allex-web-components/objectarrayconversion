@@ -1,6 +1,6 @@
 {
   "name": "allex_objectarrayconversionwebcomponent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS web component for objectarrayconversion",
   "main": "src/index.js",
   "scripts": {

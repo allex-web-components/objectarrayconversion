@@ -2,5 +2,6 @@
 {
   "browserify" : {
     "dist/conversion.js" : "src/browserify.js"
-  }
+  },
+  "actualtarget": ["dist", "conversion.js"]
 }
